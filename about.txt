@@ -1,4 +1,11 @@
 Password Manager 
 1>ductionary
 2> loops
-3>
+3>conditional 
+4>module:random
+5>file hanlding
+website: password
+
+random module
+file read/write
+real world 
