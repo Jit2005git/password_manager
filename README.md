@@ -56,3 +56,4 @@ This project stores passwords in **plain text** in `passwords.txt` — nothing i
 ## License
 
 No license specified yet. Consider adding one (e.g. MIT) if you plan to share or accept contributions to this project.
+
